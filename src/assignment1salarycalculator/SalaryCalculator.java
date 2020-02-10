@@ -11,4 +11,20 @@ package assignment1salarycalculator;
  */
 public class SalaryCalculator {
     
+    public void calcHourlyWage(int salary){
+    
+    }
+    
+    public void calcSalary(int hourlyRate){
+    
+    }
+    
+    public void calcTaxes(double percentage){
+        
+        
+    }
+    
+    public void monthlyAfterTax(int salary, double percentage){
+        
+    }
 }
